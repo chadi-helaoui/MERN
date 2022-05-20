@@ -1,0 +1,8 @@
+{
+    "mongoURI":"mongodb+srv://Chadi12345:ioGes0AhJfUKiunK@devconnector.hdhkc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"c82fb8bf122bf1860593",
+    "githubSecret":"21a6a0cca32f8f4a1495121e0937a211338e99d7"
+     
+
+}
